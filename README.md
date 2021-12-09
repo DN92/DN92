@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DN92
+- My Name is Anatoly Tsinker
 - 🌱 I’m currently learning at FullStack Academy Aug13th, 2021 cohort
 - reach me at anatoly.tsinker12@gmail.com
 
