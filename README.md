@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DN92
 - My Name is Anatoly Tsinker
 - 🌱 I’m currently learning at FullStack Academy Aug13th, 2021 cohort
-- reach me at anatoly.tsinker12@gmail.com
+- reach me at anatoly.tsinker13@gmail.com
 
 <!---
 DN92/DN92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
